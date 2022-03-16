@@ -2,10 +2,13 @@
 
 # This is a website that allows the user to calculate the weighted average of how many values he wishes to
 
+## How to use 
 
-![image](https://user-images.githubusercontent.com/54066822/158687812-07a70f56-3c67-4452-9633-52967720735e.png)
+### When you first open the website, you will be greeted by the following screen:
+![image](https://user-images.githubusercontent.com/54066822/158688563-da741df4-1b63-4aee-83c2-4c137e496e5f.png)
 
-![image](https://user-images.githubusercontent.com/54066822/158687885-57f7db1e-4ff5-49c0-a3a2-e6d21b21280e.png)
+### You shall specify how many rows you want and submit
+![image](https://user-images.githubusercontent.com/54066822/158688839-dd753342-719d-4a99-ba87-6a8780552850.png)
 
-
-![image](https://user-images.githubusercontent.com/54066822/158687927-2f522973-ca65-4551-b087-0a30fc6cd644.png)
+### Fill the rows with the value and it's weight and click on calculate
+![image](https://user-images.githubusercontent.com/54066822/158689018-a6cb82e2-8bcc-4f1b-9d9b-786fdb729e7e.png)
