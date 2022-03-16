@@ -26,7 +26,7 @@ function genForm(amount) {
   `;
 
   for (let i = 0; i < amount; i++) {
-    placeholder.insertAdjacentHTML("afterbegin", html);
+    placeholder.insertAdjacentHTML("beforebegin", html);
   }
 
   btns = document.querySelectorAll(".btn");
